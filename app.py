@@ -247,8 +247,8 @@ def main():
             
             st.markdown("""
             **Prediction Logic:**
-            - Probability ≥ 50% → Stable
-            - Probability < 50% → Unstable
+            - Probability ≥ 71.6% → Stable
+            - Probability < 71.6% → Unstable
             """)
             
             st.markdown(f"""
